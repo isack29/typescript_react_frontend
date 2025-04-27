@@ -1,4 +1,3 @@
-import React from "react";
 import { Product } from "../schemas";
 type ProductFormProps = {
   product?: Product;
